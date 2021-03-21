@@ -172,29 +172,29 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* Applies font size and 20px bottom to Search Engine Optimization */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Applies font size and 20px bottom to Online Reputation Management */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Applies font size and 20px bottom to Social Media Marketing */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Applies styles to footer*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Applies font size to footer */
 .footer h2 {
     font-size: 20px;
 }

@@ -40,16 +40,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Applies color and text decoration to hero*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*Applies text size to section of hero elements*/
 p {
     font-size: 16px;
 }
-
+/* Applies background image and style to header*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +58,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* List the side it should be applied to for Search Engine Optimization and Social Media Marketing*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* List the side it should be applied to for Online Reputation Management*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* List the side it should be applied to for Benefits*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Applies styles to Benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,55 +85,55 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Applies color and 32px to bottom on benefit lead */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Applies color and 32px to bottom of benefit brand*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Applies color and 32px to bottom of benefit cost*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Applies Text align and 10px to bottom benefit lead header*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Applies text align and 10px to bottom benefit brand header*/
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Applies text align and 10px to bottom benefit cost header*/
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Applies styles to benefit lead image */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Applies styles to benefit brand image */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Applies styles to benefit cost image */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Applies styles to search engine optimization */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Applies styles to online reputation management */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +151,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Applies styles to social media marketing */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,15 +160,15 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Applies max height 200px to search engine image */
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/* Applies max height 200px to online reputation management image*/
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/* Applies max height 200px to social media marketing image */
 .social-media-marketing img {
     max-height: 200px;
 }

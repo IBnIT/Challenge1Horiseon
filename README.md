@@ -7,6 +7,7 @@
 + Updated semantic structure and comment labeling in [index.html](index.html) and [style.css](assets\css\style.css)
 
 
-+Screenshot ![](assets\images\ScreenShotHoriseon.png)
++Screenshots ![](assets\images\ScreenShotHoriseon.png)
+![](assets\images\ScreenShotHoriseon2.png)
 
-+ Application deployed live at https://ibnit.github.io/urban-octo-telegram/
++ Application deployed live at [](https://ibnit.github.io/Challenge1Horiseon/)
